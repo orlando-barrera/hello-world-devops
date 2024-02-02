@@ -45,7 +45,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning now that you are on Ansible and dockerhub</h1>
+   <h1> Thankyou, Happy Learning now that you are on Ansible playbook, pushing to dockerhub and deploying automatically</h1>
 
   
 </form>
