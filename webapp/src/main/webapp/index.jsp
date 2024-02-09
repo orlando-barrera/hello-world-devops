@@ -45,7 +45,7 @@
     <p>Already have an account? <a href="#">Sign in from here</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning now that you are on RegApp CI/CD final step</h1>
+   <h1> Thankyou, Happy Learning now that you have finished the RegApp CI/CD course</h1>
 
   
 </form>
