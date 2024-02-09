@@ -45,7 +45,7 @@
     <p>Already have an account? <a href="#">Sign in from here</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning now that you are on Kubernetes</h1>
+   <h1> Thankyou, Happy Learning now that you are on RegApp CI/CD</h1>
 
   
 </form>
